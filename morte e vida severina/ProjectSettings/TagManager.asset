@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - Balde
+  - idosa
+  - Portao
+  - Cansaso
+  - Morte
+  - portMorte
+  - PortaoFinal
+  - Negao
+  - Enterro
+  - Recife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Chao
+  - fundo
+  - floresta
+  - clouds
+  - parallax
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 4165606717
+    locked: 0
+  - name: floresta
+    uniqueID: 573761943
+    locked: 0
+  - name: clouds
+    uniqueID: 2742510711
+    locked: 0
