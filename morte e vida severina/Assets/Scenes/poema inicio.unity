@@ -280,10 +280,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "O meu nome \xE9 Severino, \nN\xE3o tenho outro de pia.\nComo h\xE1 de
-    muitos Severinos, \nque \xE9 santo de romaria, \nderam ent\xE3o de me chamar
-    de Severino de Maria\ncomo h\xE1 muitos Severinos com m\xE3es chamadas Maria,\nfiquei
-    sendo o da Maria do finado Zacarias."
+  m_text: "O meu nome \xE9 Severino, \nN\xE3o tenho outro de pia.\nComo h\xE1 muitos
+    Severinos, \nque \xE9 santo de romaria, \nderam ent\xE3o de me chamar de Severino
+    de Maria\ncomo h\xE1 muitos Severinos com m\xE3es chamadas Maria,\nfiquei sendo
+    o da Maria do finado Zacarias."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
